@@ -26,8 +26,8 @@ Projeto desenvolvido em ReactJS durante aula de PWFE (Programação Web Front-En
 ## ⚙️ Funcionalidades
 
 - [x] Os usuários tem acesso a página web, onde podem visualizar:
-  - [x] Gráfico de Coluna
-  - [x] Gráfico de Pizza   
+  - [x] Gráfico de Coluna com dados de carros novos e usados
+  - [x] Gráfico de Pizza com dados de carros novos e usados
 
 ---
 
